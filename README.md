@@ -36,6 +36,6 @@ Catatan :
    - Pada jendela Solution Explorer Klik kanan References -> Manage NuGet Packages -> Uninstall Cudafy.Net kemudian install kembali.
 6. Kemudian jika sudah berhasil dibuild dan menghitung variansi, tapi pada saat keluar jendela ResultForm hasil perhitungannya tidak muncul, kemungkinan source code tidak terkompilasi, cara menanganinya dengan cara menambahkan PATH VC pada folder Visual Studio ke Environment Variables. Contoh Path-nya : "C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64"
 
-[Contoh File Hasil Kompilasi](http://1drv.ms/1UWYzNU)
+[Contoh File Hasil Kompilasi](https://onedrive.live.com/redir?resid=918D3ED6CFC7E5F5!1610&authkey=!AI-S46XeFO1FJn4&ithint=folder%2c)
 
 Semoga Bermanfaat . . .
