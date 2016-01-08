@@ -1,1 +1,0 @@
-# SPSS_Parallel_New
